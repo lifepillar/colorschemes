@@ -28,7 +28,7 @@ var newdir = $'..'
 
 # Choose the scripts you want to check:
 var scripts: list<string> = [] # Leave empty to test all scripts
-scripts = ['./sample_windows.vim']
+# scripts = ['./sample_windows.vim']
 
 
 ##########################################
